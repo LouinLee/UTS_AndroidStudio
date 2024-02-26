@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS_Louin</string>
+
+    <string-array name="status_options">
+        <item>Active</item>
+        <item>Inactive</item>
+    </string-array>
+
+</resources>
